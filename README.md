@@ -1,5 +1,5 @@
 ## Trace Event Library
-The trace event library is a part of the Chromium project. I created this project so that:
+The *trace event* tool is a part of the Chromium project. I took it from Chrome and created this standalone project so that:
  * It does not rely on Chromium's build system anymore.
  * It is much easier to port to platforms that Chromium doesn't support.
  * A simple and small project like this can be integrated into your project easily.
